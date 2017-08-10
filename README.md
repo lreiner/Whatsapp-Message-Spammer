@@ -12,10 +12,10 @@
 This application is for private or educational purposes only. Do not use it on other people without their permission.
 We do not accept responsibility for banned accounts or penalties of any kind caused by the use of this bots. We would like to point out that using a bot violates the Terms and Conditions of Whatsapp. By using the bot, you automatically accept that you yourself are criminally responsible for yourself and you are aware that it violates the guidelines.
 
-## Donation [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](lukasrein97@gmail.com)
+## Donation [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/LukasReiner/)
 If this project help you reduce time to develop, you can give me a cup of coffee (or a Beer of course) :)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
+![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/)
 
 ## Team
 
