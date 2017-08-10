@@ -18,10 +18,18 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/)
 
-### Prerequisites
+## Prerequisites for WMB - Tampermonkey
 
-For the Tempermonkey Script you first need to install the Tampermonkey Plugin for your Browser of course :)
+For the Tempermonkey Script you first need to install the Tampermonkey Extension for your Browser of course :)
+Go to [![Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)] and install the Extension.
 
 ```
-Go to this link: [![Tampermonkey for Chrome]https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+* After you installed it click on the Tampermonkey Icon in the top right corner
+* Click on "Create new Script"
+* Now copy paste the script code and click save
+* Be sure the script is active now in the overview
+* Reload Whatsapp Web with active Tampermonkey * active Script
+* Under your Profilepicture on the top left corner enter a text
+* Enter a chatroom and then hit send.
 ```
+:warning: DO NOT INSERT MORE THEN 500 TIMES BECAUSE MOST OF THE TIME YOUR BROWSER WILL CRASH
