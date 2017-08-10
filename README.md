@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-  This is the first Version of the Message-Bot for Whatsapp. In this Version you can type a message and spam it to the selected chat how often you want. The cool thing about this Bot is that the UI is binded to the Whatsapp Web UI. Also you can execute it with Tempermonkey if you want.
+  This is the first Version of the Message-Bot for Whatsapp. In this Version you can type a message and spam it to the selected chat how often you want. The cool thing about this Bot is that the UI is binded to the Whatsapp Web UI. Also you can execute it with Tampermonkey if you want.
 </td>
 </tr>
 </table>
@@ -18,11 +18,10 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/)
 
-## Team
+### Prerequisites
 
-[![Lukas Reiner](https://avatars1.githubusercontent.com/lukay97?v=3&s=144)](https://github.com/lukay97)
+For the Tempermonkey Script you first need to install the Tampermonkey Plugin for your Browser of course :)
 
-
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [REINVENT ](https://github.com/re-invent)
+```
+Go to this link: [![Tampermonkey for Chrome]https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+```
