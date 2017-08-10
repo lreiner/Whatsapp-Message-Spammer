@@ -20,7 +20,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 ## Prerequisites for WMB - Tampermonkey
 
-For the Tempermonkey Script you first need to install the Tampermonkey Extension for your Browser of course :)
+For the Tempermonkey Script you first need to install the Tampermonkey Extension for your Browser of course :)</br >
 Go to [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) and install the Extension.
 
 ```
@@ -39,5 +39,5 @@ Go to [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tamper
 ```
 $ git clone https://github.com/re-invent/Whatsapp-Message-Bot
 ```
-When you fork a project in order to propose changes to the original repository, you can configure Git to pull changes from the original, or upstream, repository into the local clone of your fork.
+When you fork a project in order to propose changes to the original repository, you can configure Git to pull changes from the original, or upstream, repository into the local clone of your fork.</br >
 [Click here to see how to keep a fork synched](https://help.github.com/articles/fork-a-repo/)
