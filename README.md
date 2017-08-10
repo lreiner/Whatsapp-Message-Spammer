@@ -6,6 +6,8 @@
 <td>
   This is the first Version of the Message-Bot for Whatsapp. In this Version you can type a message and spam it to the selected chat how often you want. The cool thing about this Bot is that the UI is binded to the Whatsapp Web UI. Also you can execute it with Tempermonkey if you want. To use this Bot you have to get a License and after that you have to inserd your License (Token) in the Script as it is shown below and run it. Note that the Token is registered for only 3 Devices. So you cant share it with the whole world! ;)
 </td>
+</tr>
+<tr>
 <td>
   :warning: VERY IMPORTANT :warning:
   This application is for private or educational purposes only. Do not use it on other people without their permission.
