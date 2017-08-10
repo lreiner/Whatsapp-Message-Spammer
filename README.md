@@ -33,3 +33,11 @@ Go to [![Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tamp
 * Enter a chatroom and then hit send.
 ```
 :warning: DO NOT INSERT MORE THEN 500 TIMES BECAUSE MOST OF THE TIME YOUR BROWSER WILL CRASH
+
+## Git - Fork
+
+```
+$ git clone https://github.com/re-invent/Whatsapp-Message-Bot
+```
+When you fork a project in order to propose changes to the original repository, you can configure Git to pull changes from the original, or upstream, repository into the local clone of your fork.
+[[!Click here to see how to keep a fork synched](https://help.github.com/articles/fork-a-repo/)
