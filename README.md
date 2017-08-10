@@ -1,4 +1,4 @@
-# ![Whatsapp-Message-Bot](http://i.imgur.com/4VMHsLG.jpg)
+# ![Whatsapp-Message-Bot](http://i.imgur.com/BecHU6s.jpg)
 
 # Whatsapp Message Bot (WMB)
 <table>
