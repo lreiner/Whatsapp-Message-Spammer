@@ -9,8 +9,6 @@
 </tr>
 </table>
 
-# ![Whatsapp-Message-Bot-Example](http://i.imgur.com/i0OXBY1.png)
-
 ## :warning: VERY IMPORTANT:warning:
 This application is for private or educational purposes only. Do not use it on other people without their permission.
 We do not accept responsibility for banned accounts or penalties of any kind caused by the use of this bots. We would like to point out that using a bot violates the Terms and Conditions of Whatsapp. By using the bot, you automatically accept that you yourself are criminally responsible for yourself and you are aware that it violates the guidelines.
@@ -20,6 +18,9 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/)
 </br >
+
+# ![Whatsapp-Message-Bot-Example](http://i.imgur.com/i0OXBY1.png)
+
 ## Prerequisites for WMB - Tampermonkey
 
 For the Tempermonkey Script you first need to install the Tampermonkey Extension for your Browser of course :)</br >
