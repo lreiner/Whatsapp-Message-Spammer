@@ -1,4 +1,4 @@
-# ![Whatsapp-Message-Bot](http://i.imgur.com/BecHU6s.jpg)
+# ![Whatsapp-Message-Bot](http://i.imgur.com/p4RFZNg.png)
 
 # Whatsapp Message Bot (WMB)
 <table>
@@ -18,8 +18,6 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/)
 </br >
-
-# ![Whatsapp-Message-Bot-Example](http://i.imgur.com/i0OXBY1.png)
 
 ## Prerequisites for WMB - Tampermonkey
 
