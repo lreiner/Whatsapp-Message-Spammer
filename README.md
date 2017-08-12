@@ -42,3 +42,7 @@ $ git clone https://github.com/re-invent/Whatsapp-Message-Bot
 ```
 When you fork a project in order to propose changes to the original repository, you can configure Git to pull changes from the original, or upstream, repository into the local clone of your fork.</br >
 [Click here to see how to keep a fork synched](https://help.github.com/articles/fork-a-repo/)
+
+## Releases
+
+Too see all published releases, please take a look at the [tags of this repository](https://github.com/re-invnet/Whatsapp-Message-Bot/tags) an.
