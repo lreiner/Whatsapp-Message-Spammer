@@ -45,4 +45,4 @@ When you fork a project in order to propose changes to the original repository, 
 
 ## Releases
 
-Too see all published releases, please take a look at the [tags of this repository](https://github.com/re-invnet/Whatsapp-Message-Bot/tags) an.
+Too see all published releases, please take a look at the [tags of this repository](https://github.com/reinerluke97/Whatsapp-Message-Spammer/tags) an.
