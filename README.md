@@ -1,6 +1,6 @@
 # ![Whatsapp-Message-Bot](http://i.imgur.com/xYeUUYv.png)
 
-# Whatsapp Message Bot (WMS)
+# Whatsapp Message Spammer (WMS)
 <table>
 <tr>
 <td>
