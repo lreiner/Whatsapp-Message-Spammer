@@ -1,6 +1,6 @@
 # ![Whatsapp-Message-Bot](http://i.imgur.com/xYeUUYv.png)
 
-# Whatsapp Message Bot (WMB)
+# Whatsapp Message Bot (WMS)
 <table>
 <tr>
 <td>
@@ -19,7 +19,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/)
 </br >
 
-## Prerequisites for WMB - Tampermonkey
+## Prerequisites for WMS - Tampermonkey
 
 For the Tempermonkey Script you first need to install the Tampermonkey Extension for your Browser of course :)</br >
 Go to [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) and install the Extension.
