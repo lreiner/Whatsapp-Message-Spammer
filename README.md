@@ -13,10 +13,10 @@
 This application is for private or educational purposes only. Do not use it on other people without their permission.
 We do not accept responsibility for banned accounts or penalties of any kind caused by the use of this bots. We would like to point out that using a bot violates the Terms and Conditions of Whatsapp. By using the bot, you automatically accept that you yourself are criminally responsible for yourself and you are aware that it violates the guidelines.
 </br >
-## Donation [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/LukasReiner/) [![Patreon](https://img.shields.io/badge/Support-Patreon-green.svg)](https://www.patreon.com/reinerluke)
+## Donation [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/LukasReiner/) 
 If this project help you reduce time to develop, you can give me a cup of coffee (or a Beer of course) :)
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/) [![Support via Patreon](https://i.imgur.com/V2P4wmt.png)](https://www.patreon.com/reinerluke)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/LukasReiner/) 
 
 ## Prerequisites for WMS - Tampermonkey
 
