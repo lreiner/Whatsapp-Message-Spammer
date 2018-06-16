@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Whatsapp Message Bot
-// @namespace    https://github.com/reinerluke97/Whatsapp-Message-Spammer/
+// @namespace    https://github.com/reinerluke/Whatsapp-Message-Spammer/
 // @version      2.0
-// @description  Made by reinerluke97
-// @author       reinerluke97
+// @description  Made by reinerluke
+// @author       reinerluke
 // @match        https://web.whatsapp.com/
 // @grant        none
 // @icon         https://k60.kn3.net/58A8A056B.png
