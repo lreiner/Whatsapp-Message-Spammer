@@ -1,4 +1,4 @@
-# [![WhatsappMessageSpammer](https://img.youtube.com/vi/kxhnl0wKfkA/0.jpg)](https://www.youtube.com/watch?v=kxhnl0wKfkA)
+# [![WhatsappMessageSpammer](https://img.youtube.com/vi/kxhnl0wKfkA/maxresdefault.jpg)](https://www.youtube.com/watch?v=kxhnl0wKfkA)
 
 # Whatsapp Message Spammer (WMS)
 <table>
