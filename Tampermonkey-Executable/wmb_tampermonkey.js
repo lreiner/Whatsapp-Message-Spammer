@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Whatsapp Message Bot
 // @namespace    https://github.com/reinerluke/Whatsapp-Message-Spammer/
-// @version      3.0
+// @version      4.0
 // @description  Made by reinerluke
 // @author       reinerluke
 // @match        https://web.whatsapp.com/
@@ -9,12 +9,17 @@
 // @icon         https://k60.kn3.net/58A8A056B.png
 // @icon64       https://k60.kn3.net/58A8A056B.png
 // ==/UserScript==
+
+var allElementsClassName = "m6ZEb";
+var buttonSendClass = "._35EW6";
+var inputMessageClassName = "_2S1VP";
+
 var timer = setInterval(general, 1000);
 
 function general() {
-    if (document.getElementsByClassName("m6ZEb")[0] != null) {
+    if (document.getElementsByClassName(allElementsClassName)[0] != null) {
         console.log("WS Spam: Found Div to inject ...");
-        var item = document.getElementsByClassName("m6ZEb")[0];
+        var item = document.getElementsByClassName(allElementsClassName)[0];
         var element = item.cloneNode(true);
         element.innerHTML = '<div style="height: 110px; width: 100%;"> \
                                 <input type="text" id="inputMessage" placeholder="Message ..." style="margin-left: 10px; margin-top: 10px; width: calc(100% - 50px); height: 30px; padding-left: 10px"> \
@@ -50,13 +55,13 @@ function dispatch(input, message) {
     });
     input.innerHTML = message;
     input.dispatchEvent(evt);
-    document.querySelector("._2lkdt").click();
+    document.querySelector(buttonSendClass).click();
 }
 
 function spam() {
     var text = document.getElementById("inputMessage").value;
     var reps = document.getElementById("timesSend").value;
-    var input = document.getElementsByClassName("_2S1VP copyable-text selectable-text")[0];
+    var input = document.getElementsByClassName(inputMessageClassName + " copyable-text selectable-text")[0];
     var counter = 1;
     while (counter <= reps) {
         dispatch(input, text);
