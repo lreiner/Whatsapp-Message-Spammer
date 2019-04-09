@@ -1,5 +1,3 @@
-# ![WhatsappMessageSpammer](https://i.imgur.com/k63eNyM.jpg)
-
 # Whatsapp Message Spammer (WMS)
 <table>
 <tr>
