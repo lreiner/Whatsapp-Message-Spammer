@@ -10,9 +10,9 @@
 // @icon64       https://k60.kn3.net/58A8A056B.png
 // ==/UserScript==
 
-var allElementsClassName = "m6ZEb";
-var buttonSendClass = "._35EW6";
-var inputMessageClassName = "_2S1VP";
+var allElementsClassName = "_2HS9r"; //class name of Search Div
+var buttonSendClass = "._3M-N-"; //class name WITH "." from send button
+var inputMessageClassName = "_3u328"; //div class name where text is stored
 
 var timer = setInterval(general, 1000);
 
