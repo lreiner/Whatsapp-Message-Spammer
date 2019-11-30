@@ -70,7 +70,7 @@ function spam() {
 }
 
 function donate() {
-    var url = "https://www.paypal.me/LukasReiner";
+    var url = "https://paypal.me/lreiner97";
     var win = window.open(url, '_blank');
     win.focus();
 }
