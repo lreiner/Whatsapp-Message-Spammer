@@ -10,7 +10,7 @@
 // @icon64       https://k60.kn3.net/58A8A056B.png
 // ==/UserScript==
 
-var allElementsClassName = "_2HS9r"; //class name of Search Div
+var allElementsClassName = "_2vikl"; //class name of Search Div
 var buttonSendClass = "._3M-N-"; //class name WITH "." from send button
 var inputMessageClassName = "_3u328"; //div class name where text is stored
 
@@ -61,7 +61,7 @@ function dispatch(input, message) {
 function spam() {
     var text = document.getElementById("inputMessage").value;
     var reps = document.getElementById("timesSend").value;
-    var input = document.getElementsByClassName(inputMessageClassName + " copyable-text selectable-text")[0];
+    var input = document.getElementsByClassName(inputMessageClassName + " copyable-text selectable-text")[1];
     var counter = 1;
     while (counter <= reps) {
         dispatch(input, text);
