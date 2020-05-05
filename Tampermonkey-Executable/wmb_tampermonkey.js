@@ -10,9 +10,9 @@
 // @icon64       https://k60.kn3.net/58A8A056B.png
 // ==/UserScript==
 
-var allElementsClassName = "_2vikl"; //class name of Search Div
-var buttonSendClass = "._3M-N-"; //class name WITH "." from send button
-var inputMessageClassName = "_3u328"; //div class name where text is stored
+var allElementsClassName = "rRAIq"; //Inspect the Search Div and find the parent div with tabindex for example: <div tabindex="-1" class="rRAIq"> and use its classname
+var buttonSendClass = "._35EW6"; //class name WITH "." from send button, type something in a chat so the send button appears. Inspect it and use the classname from the button. Example: <button class="_35EW6">
+var inputMessageClassName = "_2S1VP"; //div class name where text is stored, example: <div class="_2S1VP copyable-text selectable-text" contenteditable="true" data-tab="1" dir="ltr" spellcheck="true">Test</div>
 
 var timer = setInterval(general, 1000);
 
